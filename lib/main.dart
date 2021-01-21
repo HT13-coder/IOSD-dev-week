@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     SystemChrome.setEnabledSystemUIOverlays([]);
     allPeople = [Person("Maanas", "Why so serious?")];
     allPeople.add(Person("Shubh", "Alright, Alright, Alright!"));
-//    allPeople.add(Person("Shubh", "Why so serious?"));
+//    allPeople.add(Person("wizard king", "Why so serious?"));
 
     return MaterialApp(
       home: Scaffold(
